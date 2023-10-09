@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "seller": "Muskan",
+        "sellerID": 1001,
+        "name": "Classic Zip",
+        "subCategory": "Zip",
+        "quantity": 20,
+        "image": "https://i.ibb.co/Kw3H8LR/zip8.jpg",
+        "price": "$35",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "seller": "Munisha",
+        "sellerID": 1002,
+        "name": "Classic Zip",
+        "subCategory": "Zip",
+        "quantity": 25,
+        "image": "https://i.ibb.co/HGv5n2R/zip7.jpg",
+        "price": "$30",
+        "rating": 4.2
+    },
+    {
+        "id": 3,
+        "seller": "Muntasir",
+        "sellerID": 1003,
+        "name": "Classic Zip",
+        "subCategory": "Zip",
+        "quantity": 28,
+        "image": "https://i.ibb.co/rsfZbFG/zip4.jpg",
+        "price": "$32",
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "seller": "Munifa",
+        "sellerID": 1004,
+        "name": "Classic Zip",
+        "subCategory": "Zip",
+        "quantity": 14,
+        "image": "https://i.ibb.co/k4QYCcY/zip5.jpg",
+        "price": "$20",
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "seller": "Muntaha",
+        "sellerID": 1005,
+        "name": "Classic Zip",
+        "subCategory": "Zip",
+        "quantity": 18,
+        "image": "https://i.ibb.co/K2zhphF/zip2.jpg",
+        "price": "$29",
+        "rating": 4.7
+    },
+    {
+        "id": 6,
+        "seller": "Fateha",
+        "sellerID": 1006,
+        "name": "Classic Zip",
+        "subCategory": "Zip",
+        "quantity": 25,
+        "image": "https://i.ibb.co/30Qv04S/zip1.jpg",
+        "price": "$22",
+        "rating": 4.7
+    },
+    {
+        "id": 7,
+        "seller": "Muskan",
+        "sellerID": 1007,
+        "name": "Vintage Car",
+        "subCategory": "Vintage",
+        "quantity": 10,
+        "image": "https://i.ibb.co/HHRQj23/vintage8.jpg",
+        "price": "$50",
+        "rating": 4.3
+    },
+    {
+        "id": 8,
+        "seller": "Munisha",
+        "sellerID": 1008,
+        "name": "Vintage Car",
+        "subCategory": "Vintage",
+        "quantity": 14,
+        "image": "https://i.ibb.co/SBfy5MQ/vintage3.jpg",
+        "price": "$45",
+        "rating": 4.8
+    },
+    {
+        "id": 9,
+        "seller": "Muntasir",
+        "sellerID": 1009,
+        "name": "Vintage Car",
+        "subCategory": "Vintage",
+        "quantity": 15,
+        "image": "https://i.ibb.co/yQFh0jC/vintage1.jpg",
+        "price": "$48",
+        "rating": 4.6
+    },
+    {
+        "id": 10,
+        "seller": "Munifa",
+        "sellerID": 1010,
+        "name": "Vintage Car",
+        "subCategory": "Vintage",
+        "quantity": 18,
+        "image": "https://i.ibb.co/Yh9DVBP/vintage4.jpg",
+        "price": "$42",
+        "rating": 4.6
+    },
+    {
+        "id": 11,
+        "seller": "Fateha",
+        "sellerID": 1011,
+        "name": "Vintage Car",
+        "subCategory": "Vintage",
+        "quantity": 20,
+        "image": "https://i.ibb.co/Mf2LzM9/vintage.jpg",
+        "price": "$55",
+        "rating": 4.6
+    },
+    {
+        "id": 12,
+        "seller": "Muntaha",
+        "sellerID": 1012,
+        "name": "Vintage Car",
+        "subCategory": "Vintage",
+        "quantity": 17,
+        "image": "https://i.ibb.co/QXqp2TL/vintage5.jpg",
+        "price": "$51",
+        "rating": 4.6
+    },
+    {
+        "id": 13,
+        "seller": "Muskan",
+        "sellerID": 1013,
+        "name": "Racing Car",
+        "subCategory": "Formula 1",
+        "quantity": 10,
+        "image": "https://i.ibb.co/C2VcdS3/vintage11.jpg",
+        "price": "$12",
+        "rating": 4.5
+    },
+    {
+        "id": 14,
+        "seller": "Munisha",
+        "sellerID": 1014,
+        "name": "Racing Car ",
+        "subCategory": "Formula 1",
+        "quantity": 14,
+        "image": "https://i.ibb.co/m63KdtX/formula2.jpg",
+        "price": "$18",
+        "rating": 4.2
+    },
+    {
+        "id": 15,
+        "seller": "Muntasir",
+        "sellerID": 1015,
+        "name": "Racing Car ",
+        "subCategory": "Formula 1",
+        "quantity": 19,
+        "image": "https://i.ibb.co/4tyxPYC/formula5.jpg",
+        "price": "$11",
+        "rating": 4.2
+    },
+    {
+        "id": 16,
+        "seller": "Munifa",
+        "sellerID": 1016,
+        "name": "Racing Car ",
+        "subCategory": "Formula 1",
+        "quantity": 16,
+        "image": "https://i.ibb.co/JHTRznb/formula3.jpg",
+        "price": "$17",
+        "rating": 4.2
+    },
+    {
+        "id": 17,
+        "seller": "Fateha",
+        "sellerID": 1017,
+        "name": "Racing Car ",
+        "subCategory": "Formula 1",
+        "quantity": 13,
+        "image": "https://i.ibb.co/HDPXVzL/formula7.jpg",
+        "price": "$20",
+        "rating": 4.2
+    },
+    {
+        "id": 18,
+        "seller": "Muntaha",
+        "sellerID": 1018,
+        "name": "Racing Car ",
+        "subCategory": "Formula 1",
+        "quantity": 10,
+        "image": "https://i.ibb.co/pzgNFsJ/formula8.jpg",
+        "price": "$22",
+        "rating": 4.0
+    }
+]
