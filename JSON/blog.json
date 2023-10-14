@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with React",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "shortContent": "Learn the basics of React and start building powerful web applications.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore tempora laboriosam libero? Reprehenderit fugiat earum quaerat adipisci excepturi sit in, delectus voluptates sequi non voluptatem aspernatur ipsam nam veniam sapiente exercitationem? Impedit error rem laborum deleniti totam, labore, commodi debitis, cupiditate sed molestiae officia non dolor nisi minima harum. Necessitatibus, expedita nam laborum excepturi illum officiis repellendus non beatae repudiandae praesentium explicabo quam ad? Quia ratione consequatur explicabo deleniti possimus, veniam accusamus tempora numquam aliquam unde obcaecati repellat enim? Repellendus accusamus voluptas et eum nihil labore recusandae, debitis magnam! Dolor quos, odit quia sint animi maiores at enim ex veniam?",
+        "image": "https://i.ibb.co/qNDYkx3/q4.jpg",
+        "date": "2023-10-13",
+        "author": "John Doe"
+    },
+    {
+        "id": 2,
+        "title": "JavaScript Fundamentals",
+        "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut enim ad minim veniam.",
+        "shortContent": "Explore the fundamental concepts of JavaScript programming language.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore tempora laboriosam libero? Reprehenderit fugiat earum quaerat adipisci excepturi sit in, delectus voluptates sequi non voluptatem aspernatur ipsam nam veniam sapiente exercitationem? Impedit error rem laborum deleniti totam, labore, commodi debitis, cupiditate sed molestiae officia non dolor nisi minima harum. Necessitatibus, expedita nam laborum excepturi illum officiis repellendus non beatae repudiandae praesentium explicabo quam ad? Quia ratione consequatur explicabo deleniti possimus, veniam accusamus tempora numquam aliquam unde obcaecati repellat enim? Repellendus accusamus voluptas et eum nihil labore recusandae, debitis magnam! Dolor quos, odit quia sint animi maiores at enim ex veniam?",
+        "image": "https://i.ibb.co/8MgJ6dB/q3.jpg",
+        "date": "2023-10-14",
+        "author": "Jane Smith"
+    },
+    {
+        "id": 3,
+        "title": "CSS Styling Techniques",
+        "content": "Nulla facilisi. Integer non nisl eu nulla scelerisque varius. Curabitur fringilla, elit id euismod auctor, neque libero.",
+        "shortContent": "Discover advanced CSS styling techniques for creating stunning web designs.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore tempora laboriosam libero? Reprehenderit fugiat earum quaerat adipisci excepturi sit in, delectus voluptates sequi non voluptatem aspernatur ipsam nam veniam sapiente exercitationem? Impedit error rem laborum deleniti totam, labore, commodi debitis, cupiditate sed molestiae officia non dolor nisi minima harum. Necessitatibus, expedita nam laborum excepturi illum officiis repellendus non beatae repudiandae praesentium explicabo quam ad? Quia ratione consequatur explicabo deleniti possimus, veniam accusamus tempora numquam aliquam unde obcaecati repellat enim? Repellendus accusamus voluptas et eum nihil labore recusandae, debitis magnam! Dolor quos, odit quia sint animi maiores at enim ex veniam?",
+        "image": "https://i.ibb.co/Xjt8Qnn/q2.jpg",
+        "date": "2023-10-15",
+        "author": "Sam Johnson"
+    },
+    {
+        "id": 4,
+        "title": "Introduction to Python",
+        "content": "Python is a high-level, interpreted programming language known for its simplicity and readability.",
+        "shortContent": "Get introduced to the Python programming language and its key features.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore tempora laboriosam libero? Reprehenderit fugiat earum quaerat adipisci excepturi sit in, delectus voluptates sequi non voluptatem aspernatur ipsam nam veniam sapiente exercitationem? Impedit error rem laborum deleniti totam, labore, commodi debitis, cupiditate sed molestiae officia non dolor nisi minima harum. Necessitatibus, expedita nam laborum excepturi illum officiis repellendus non beatae repudiandae praesentium explicabo quam ad? Quia ratione consequatur explicabo deleniti possimus, veniam accusamus tempora numquam aliquam unde obcaecati repellat enim? Repellendus accusamus voluptas et eum nihil labore recusandae, debitis magnam! Dolor quos, odit quia sint animi maiores at enim ex veniam?",
+        "image": "https://i.ibb.co/W2TCCg7/q5.jpg",
+        "date": "2023-10-16",
+        "author": "Alice Brown"
+    },
+    {
+        "id": 5,
+        "title": "Web Design Best Practices",
+        "content": "Aenean vel elit vel libero tempus eleifend. Integer vestibulum nulla ac fringilla aliquet. Donec eget augue nec justo interdum tristique.",
+        "shortContent": "Explore best practices for designing effective and user-friendly websites.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore tempora laboriosam libero? Reprehenderit fugiat earum quaerat adipisci excepturi sit in, delectus voluptates sequi non voluptatem aspernatur ipsam nam veniam sapiente exercitationem? Impedit error rem laborum deleniti totam, labore, commodi debitis, cupiditate sed molestiae officia non dolor nisi minima harum. Necessitatibus, expedita nam laborum excepturi illum officiis repellendus non beatae repudiandae praesentium explicabo quam ad? Quia ratione consequatur explicabo deleniti possimus, veniam accusamus tempora numquam aliquam unde obcaecati repellat enim? Repellendus accusamus voluptas et eum nihil labore recusandae, debitis magnam! Dolor quos, odit quia sint animi maiores at enim ex veniam?",
+        "image": "https://i.ibb.co/gj7YtR9/q7.jpg",
+        "date": "2023-10-17",
+        "author": "Chris White"
+    },
+    {
+        "id": 6,
+        "title": "Machine Learning Basics",
+        "content": "Machine learning is a subset of artificial intelligence that focuses on building systems that can learn and improve from experience.",
+        "shortContent": "Get an overview of the basics of machine learning and its applications.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore tempora laboriosam libero? Reprehenderit fugiat earum quaerat adipisci excepturi sit in, delectus voluptates sequi non voluptatem aspernatur ipsam nam veniam sapiente exercitationem? Impedit error rem laborum deleniti totam, labore, commodi debitis, cupiditate sed molestiae officia non dolor nisi minima harum. Necessitatibus, expedita nam laborum excepturi illum officiis repellendus non beatae repudiandae praesentium explicabo quam ad? Quia ratione consequatur explicabo deleniti possimus, veniam accusamus tempora numquam aliquam unde obcaecati repellat enim? Repellendus accusamus voluptas et eum nihil labore recusandae, debitis magnam! Dolor quos, odit quia sint animi maiores at enim ex veniam?",
+        "image": "https://i.ibb.co/rGLnRyW/q6.jpg",
+        "date": "2023-10-18",
+        "author": "Alex Green"
+    }
+]

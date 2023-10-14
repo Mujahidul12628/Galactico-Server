@@ -8,9 +8,11 @@ app.use(cors());
 
 const allToysData = require("./JSON/toysData.json");
 const All = require("./JSON/allToysData.json");
+const blog = require("./JSON/blog.json");
+const myToys = require("./JSON/myToys.json");
 
 app.get('/', (req, res) => {
-    res.send('Toys Galaxy Server');
+    res.send('Toys Galactico Server');
 });
 
 app.get('/toysData', (req, res) => {
@@ -35,6 +37,12 @@ app.get('/toysData/:id', (req, res) => {
 
 app.get('/all', (req, res) => {
     res.send(All);
+});
+app.get('/blog', (req, res) => {
+    res.send(blog);
+});
+app.get('/myToys', (req, res) => {
+    res.send(myToys);
 });
 
 app.listen(port, () => {
